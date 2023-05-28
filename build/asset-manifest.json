@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/todolist2/static/css/main.4bc56785.css",
-    "main.js": "/todolist2/static/js/main.b666af63.js",
+    "main.js": "/todolist2/static/js/main.112e6458.js",
     "static/media/—Pngtree—college entrance examination japanese frame_913139.jpg": "/todolist2/static/media/—Pngtree—college entrance examination japanese frame_913139.e3e9d8a9b64feabd7edf.jpg",
     "index.html": "/todolist2/index.html",
     "main.4bc56785.css.map": "/todolist2/static/css/main.4bc56785.css.map",
-    "main.b666af63.js.map": "/todolist2/static/js/main.b666af63.js.map"
+    "main.112e6458.js.map": "/todolist2/static/js/main.112e6458.js.map"
   },
   "entrypoints": [
     "static/css/main.4bc56785.css",
-    "static/js/main.b666af63.js"
+    "static/js/main.112e6458.js"
   ]
 }
